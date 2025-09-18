@@ -1,0 +1,9 @@
+# personal data
+StoryGraph.csv
+libraries.txt
+authors.txt
+
+# python
+__pycache__/
+*.pyc
+.venv/

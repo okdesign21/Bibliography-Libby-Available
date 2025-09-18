@@ -25,7 +25,7 @@ Supports StoryGraph exports, Libby/OverDrive library lookups, and Open Library f
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/yourusername/bibliography-status.git
+git clone https://github.com/okdesign21/Bibliography-Libby-Available.git
 cd bibliography-status
 python3 -m venv .venv
 source .venv/bin/activate
