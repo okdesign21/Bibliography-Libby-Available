@@ -1,0 +1,5 @@
+# Library Name | libbyKey | overdriveSite
+Auckland Libraries | auckland | auckland.overdrive.com
+Israel Digital | israeldigital | telaviv.overdrive.com
+Burlington Public Library (ON) | burlingtonpl | burlingtonpl.overdrive.com
+
